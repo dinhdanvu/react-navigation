@@ -1,5 +1,0 @@
-
-[build]
-  base    = "/"
-  publish = "example/web-build"
-  command = "yarn example expo build:web"
